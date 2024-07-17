@@ -1,5 +1,4 @@
-def sum(a,b):
-    return a + b
+print("Hello")
 
 def print_hi(name):
     print("Hello!!!! {name}")
