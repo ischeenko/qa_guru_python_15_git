@@ -1,4 +1,8 @@
-print('Hello!!!!!!! world with conflict branch')
 def print_hi(name):
-    print("Hello!!!! {name}")
+    print("Hello smd {name}")
+
+
+print("Hello world with conflict")
+
+
 
